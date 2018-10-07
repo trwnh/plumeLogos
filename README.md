@@ -13,5 +13,5 @@ Filled | Silhouette
 
 # Links
 You may find me at the following locations:
-Website: http://trwnh.com
-ActivityPub: https://mastodon.social/@trwnh
+- Website: http://trwnh.com
+- ActivityPub: https://mastodon.social/@trwnh
