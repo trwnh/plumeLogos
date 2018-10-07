@@ -10,3 +10,8 @@ Path | Filled | Silhouette
 Filled | Silhouette
 --- | ---
 ![plumeParagraphs](https://raw.githubusercontent.com/trwnh/plumeLogos/master/plumeParagraphs/plumeParagraphs512.png) | ![plumeParagraphsBlack](https://raw.githubusercontent.com/trwnh/plumeLogos/master/plumeParagraphsBlack/plumeParagraphsBlack512.png)
+
+# Links
+You may find me at the following locations:
+Website: http://trwnh.com
+ActivityPub: https://mastodon.social/@trwnh
