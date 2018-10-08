@@ -15,6 +15,7 @@ Filled | Silhouette
 You may find me at the following locations:
 - Website: http://trwnh.com
 - ActivityPub: https://mastodon.social/@trwnh
+
 If you'd like to support me, you can do so:
 - One-time: https://paypal.me/trwnh
 - Recurring: https://liberapay.com/trwnh
