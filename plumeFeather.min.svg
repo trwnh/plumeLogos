@@ -1,6 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="plumeLogo" class="trwnhFeather" width="512" height="512" version="1.1" viewBox="0 0 135.46666 135.46667" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-<g transform="translate(0 -161.53)">
-<path d="m11.343 288.41c-10.231 10.396-10.905 7.2761-6.9984-2.5089l11.813-20.359c1.6151 0.40548 13.892-55.262 54.748-81.967-9.222 15.791-3.918 18.803-3.918 18.803 7.3379-21.969 13.653-30.768 66.342-38.71-15.163 11.415-6.4529 41.254-50.134 55.217 12.684-2.733 25.822-8.7375 31.68-15.665-3.2549 22.405-51.891 60.247-84.846 64.995z" fill="none" stroke="#7765e3" stroke-linecap="square" stroke-linejoin="round" stroke-width="4.2751" style="paint-order:normal"/>
-</g>
+<svg id="plumeLogo" class="trwnhFeather" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135.46666 135.46667">
+<path d="M11.346629 126.87841c-10.2339328 10.3989-10.90810626 7.27844-7.0005853-2.50973L16.162981 104.0034c1.615621.4056 13.896323-55.27971 54.76559-81.99281-9.224928 15.79597-3.919201 18.80882-3.919201 18.80882 7.340235-21.97554 13.657091-30.77817 66.36274-38.72208-15.16743 11.41894-6.45491 41.26757-50.150396 55.23494 12.687787-2.73388 25.830656-8.74025 31.689776-15.67015-3.25597 22.41232-51.907452 60.26584-84.872835 65.01524z" fill="none" stroke="#7765e3" stroke-width="4.23333328" stroke-linecap="square" stroke-linejoin="round"/>
 </svg>
