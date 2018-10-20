@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="plumeLogo" class="trwnhParagraphs" width="512" height="512" version="1.1" viewBox="0 0 135.46666 135.46667" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg id="plumeLogo" class="trwnhParagraphs" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135.46666 135.46667">
 <g transform="translate(0 -161.53)">
 <path transform="matrix(.26458 0 0 .26458 0 161.53)" d="m0 0v512h512v-512h-512zm65.9 59.885h82.551c147.48 0.68145 146.25 182.67-3.9277 182.67l2.1816 203.56h-77.529l-3.2754-386.23zm295.41 57.426h85.379v85.379h-85.379v-85.379zm-63.434 120.57h148.25v84.246h-148.25v-84.246zm-100.49 119.51h249.23v85.227h-249.23v-85.227z"/>
 </g>
